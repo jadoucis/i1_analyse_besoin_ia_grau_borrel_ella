@@ -1,3 +1,6 @@
+Jade GRAU, Melvin BORRELL, Raphaël ELLA
+
+
 # Exo 1
 
 - En tant qu'utilisateur, je souhaite savoir les principaux termes abordés dans la réunion afin d'avoir une synthèse de la réunion
